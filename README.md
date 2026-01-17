@@ -7,7 +7,7 @@
 
 📄 **Project Report**: [View Report](https://docs.google.com/document/d/1yvgwIiIGfNUzKarbiACLJSepCb19kliQaFVpRhrvPSk/edit?usp=sharing)  
 📊 **Live Dashboard**: [Launch Dashboard](https://gurnooroberoi-ai-based-price-sensitiv-dashboarddashboard-gkhqcy.streamlit.app/)  
-🎥 **Video Demo & Presentation**: [Watch Demo](https://drive.google.com/file/d/1yK8rTRIiBpl8bEomu9dXDbt7dxYux-PA/view?usp=drive_link)
+<!-- 🎥 **Video Demo & Presentation**: [Watch Demo](https://drive.google.com/file/d/1bIwAPATEmIPfP-m1Sbatw9g6DersHOph/view?usp=drive_link) -->
  
 ---
 ## 🚀 Project Overview
