@@ -22,23 +22,3 @@ def price_vs_revenue(df):
     plt.title("Price vs Revenue")
     plt.savefig(f"{PLOT_DIR}/price_vs_revenue.png")
     plt.close()
-
-# import os
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-
-# def ensure_plot_dir():
-#     os.makedirs("output/plots", exist_ok=True)
-
-# def revenue_curve(sim_df):
-#     ensure_plot_dir()
-#     plt.figure()
-#     sns.lineplot(
-#         x=sim_df["PRICE"],
-#         y=sim_df["REVENUE"],
-#         marker="o"
-#     )
-#     plt.title("Price vs Revenue")
-#     plt.savefig("output/plots/revenue_curve.png")
-#     plt.close()
-
