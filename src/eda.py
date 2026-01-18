@@ -1,18 +1,3 @@
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-
-# def price_demand_plot(df):
-#     plt.figure()
-#     sns.scatterplot(x=df['PRICE'], y=df['QUANTITY'], alpha=0.6)
-#     plt.title("Price vs Demand")
-#     plt.show()
-
-# def price_revenue_plot(df):
-#     plt.figure()
-#     sns.scatterplot(x=df['PRICE'], y=df['REVENUE'], alpha=0.6)
-#     plt.title("Price vs Revenue")
-#     plt.show()
-
 import os
 import matplotlib.pyplot as plt
 import seaborn as sns
