@@ -1,19 +1,3 @@
-# import numpy as np
-# import pandas as pd
-
-# def simulate_prices(df, model, X_test):
-#     price_range = np.linspace(df['PRICE'].min(), df['PRICE'].max(), 20)
-#     base = X_test.mean().to_dict()
-
-#     results = []
-#     for price in price_range:
-#         base['PRICE'] = price
-#         demand = model.predict(pd.DataFrame([base]))[0]
-#         revenue = price * demand
-#         results.append([price, demand, revenue])
-
-#     return pd.DataFrame(results, columns=['PRICE','DEMAND','REVENUE'])
-
 import os
 import numpy as np
 import pandas as pd
